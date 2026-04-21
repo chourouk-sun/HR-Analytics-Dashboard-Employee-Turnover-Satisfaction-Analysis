@@ -3,8 +3,6 @@ HR Analytics Project (Excel, Power BI) Analyzed employee attrition and satisfact
 
 
 
-
-
 🧩 1. Business Understanding
 Define the goal clearly:
 The objective of this project is to:
@@ -105,3 +103,38 @@ Dashboard
 (Add screenshots)
 
 💼 10. CV Description (Copy this 🔥)
+
+
+
+
+🔵 3. README احترافي (انسخي هذا 👇 وعدليه)
+# 📊 HR Attrition Analysis
+
+## 📌 Project Overview
+This project analyzes employee attrition to identify key factors influencing turnover.
+
+## 🛠 Tools Used
+- Excel (Data Cleaning & Feature Engineering)
+- Power BI (Dashboard & Visualization)
+
+## 📈 Key Metrics
+- Turnover Rate: 16.12%
+
+## 🔍 Key Insights
+- Employees working overtime are more likely to leave
+- Medium salary group shows highest attrition
+- Sales department has the highest turnover
+
+## 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+## 💡 Recommendations
+- Improve work-life balance (reduce overtime)
+- Provide growth opportunities for mid-level employees
+
+## 📁 Files
+- Dataset: `data/HR_Data.xlsx`
+- Dashboard: `dashboard/HR_Dashboard.pdf`
+
+## 🚀 Author
+- Your Name
