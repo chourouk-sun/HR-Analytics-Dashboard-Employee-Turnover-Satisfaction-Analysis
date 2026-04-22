@@ -80,7 +80,7 @@ Examples:
 - Turnover Rate: 16.12%
 
 ##  Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/HR_Attrition.png)
 
 ##  Recommendations
 - Improve work-life balance (reduce overtime)
