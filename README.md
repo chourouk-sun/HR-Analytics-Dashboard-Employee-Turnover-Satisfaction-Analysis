@@ -3,20 +3,17 @@ HR Analytics Project (Excel, Power BI) Analyzed employee attrition and satisfact
 
 
 
-🧩 1. Business Understanding
-Define the goal clearly:
+# 1. Business Understanding
 The objective of this project is to:
 Analyze employee turnover (attrition)
 Understand factors affecting employee satisfaction
 Identify key reasons why employees leave
 Provide data-driven HR recommendations
 
-📊 2. Dataset
-Use a real-world dataset (very important for your CV):
-👉 Recommended:
+# 2. Dataset
 IBM HR Analytics Employee Attrition dataset (from Kaggle)
 
-🧹 3. Data Cleaning (Excel / Power Query)
+# 3. Data Cleaning (Excel )
 Tasks:
 Handle missing values
 Remove duplicates
@@ -24,32 +21,32 @@ Standardize columns (e.g., Job Role, Department)
 Convert categorical values:
 Attrition → Yes / No
 Satisfaction → numeric scale
-➕ Feature Engineering (important!)
+## Feature Engineering (important!)
 Create new columns:
 Age Group (20–30, 30–40…)
 Salary Level (Low / Medium / High)
 Years at Company Group
 
-📈 4. Data Analysis (Excel)
+# 4. Data Analysis (Excel)
 Perform exploratory analysis:
-🔹 Turnover Rate
+  ## Turnover Rate
 % of employees who left
-🔹 Analyze by:
+  ## Analyze by:
 Department
 Job Role
 Salary
 Age Group
-🔹 Satisfaction Analysis
+  ## Satisfaction Analysis
 Compare satisfaction vs attrition
 
-📊 5. Power BI Dashboard (MOST IMPORTANT 🔥)
-🎯 KPIs (Top of Dashboard)
+# 5. Power BI Dashboard 
+  ## KPIs (Top of Dashboard)
 Total Employees
 Turnover Rate (%)
 Average Satisfaction
 Average Salary
 
-📊 Visualizations
+  ## Visualizations
 1. Turnover Analysis
 Bar Chart: Attrition by Department
 Pie Chart: Attrition (Yes vs No)
@@ -60,26 +57,19 @@ Attrition vs:
 Salary
 Overtime
 Job Role
-👉 Example insight:
-“Employees working overtime are more likely to leave.”
+insight: “Employees working overtime are more likely to leave.”
 
-🎛️ Filters (Slicers)
+  ## Filters (Slicers)
 Department
-Gender
 Job Role
 Age Group
 
-🧠 6. Key Insights (VERY IMPORTANT)
+# 6. Key Insights 
 Examples:
 Employees with low salaries have higher attrition rates
 Overtime significantly increases turnover
 New employees are more likely to leave
 
-💡 7. Recommendations (This makes you stand out!)
-Examples:
-Improve salary structure
-Reduce overtime workload
-Enhance onboarding programs for new employees
 
 📁 8. GitHub Structure
 HR-Analytics-Project/
