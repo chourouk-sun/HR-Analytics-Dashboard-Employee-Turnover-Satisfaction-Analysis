@@ -1,8 +1,12 @@
 # HR-Analytics-Dashboard-Employee-Turnover-Satisfaction-Analysis
 HR Analytics Project (Excel, Power BI) Analyzed employee attrition and satisfaction data Built an interactive dashboard using Power BI Identified key drivers of employee turnover (salary, overtime, job role) Delivered actionable HR recommendations based on data insights
 
+# Project Overview
+This project analyzes employee attrition and satisfaction to identify key factors influencing turnover
+# Tools Used
+- Excel (Data Cleaning & Feature Engineering)
+- Power BI (Dashboard & Visualization)
 
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 # 1. Business Understanding
 The objective of this project is to:
 Analyze employee turnover (attrition)
@@ -12,6 +16,8 @@ Provide data-driven HR recommendations
 
 # 2. Dataset
 IBM HR Analytics Employee Attrition dataset (from Kaggle)
+Kaggle link : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+
 
 # 3. Data Cleaning (Excel )
 Tasks:
@@ -66,65 +72,20 @@ Age Group
 
 # 6. Key Insights 
 Examples:
-Employees with low salaries have higher attrition rates
-Overtime significantly increases turnover
-New employees are more likely to leave
+- Employees with low and Medium salaries have higher attrition rates.
+- Employees working overtime are more likely to leave.
+- New employees are more likely to leave.
+- Sales department has the highest turnover.
 
-
-📁 8. GitHub Structure
-HR-Analytics-Project/
-│
-├── data/
-├── excel/
-├── powerbi/
-├── images/
-├── README.md
-
-
-📝 9. README Content
-Project Overview
-This project analyzes employee attrition and satisfaction using Excel and Power BI.
-Tools
-Excel
-Power BI
-Key Insights
-(Add 3–5 strong insights)
-Dashboard
-(Add screenshots)
-
-💼 10. CV Description (Copy this 🔥)
-
-
-
-
-🔵 3. README احترافي (انسخي هذا 👇 وعدليه)
-# 📊 HR Attrition Analysis
-
-## 📌 Project Overview
-This project analyzes employee attrition to identify key factors influencing turnover.
-
-## 🛠 Tools Used
-- Excel (Data Cleaning & Feature Engineering)
-- Power BI (Dashboard & Visualization)
-
-## 📈 Key Metrics
+##  Key Metrics
 - Turnover Rate: 16.12%
 
-## 🔍 Key Insights
-- Employees working overtime are more likely to leave
-- Medium salary group shows highest attrition
-- Sales department has the highest turnover
-
-## 📊 Dashboard
+##  Dashboard
 ![Dashboard](images/dashboard.png)
 
-## 💡 Recommendations
+##  Recommendations
 - Improve work-life balance (reduce overtime)
 - Provide growth opportunities for mid-level employees
 
-## 📁 Files
-- Dataset: `data/HR_Data.xlsx`
-- Dashboard: `dashboard/HR_Dashboard.pdf`
-
-## 🚀 Author
-- Your Name
+##  Author
+- Chourouk
