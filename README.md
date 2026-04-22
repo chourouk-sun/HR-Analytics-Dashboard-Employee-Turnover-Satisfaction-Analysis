@@ -2,7 +2,7 @@
 HR Analytics Project (Excel, Power BI) Analyzed employee attrition and satisfaction data Built an interactive dashboard using Power BI Identified key drivers of employee turnover (salary, overtime, job role) Delivered actionable HR recommendations based on data insights
 
 
-
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 # 1. Business Understanding
 The objective of this project is to:
 Analyze employee turnover (attrition)
