@@ -21,12 +21,12 @@ Kaggle link : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-att
 
 # 3. Data Cleaning (Excel )
 Tasks:
-Handle missing values
-Remove duplicates
-Standardize columns (e.g., Job Role, Department)
-Convert categorical values:
-Attrition → Yes / No
-Satisfaction → numeric scale
+- Handle missing values
+- Remove duplicates
+- Standardize columns (e.g., Job Role, Department)
+- Convert categorical values:
+- Attrition → Yes / No
+- Satisfaction → numeric scale
 ## Feature Engineering (important!)
 Create new columns:
 Age Group (20–30, 30–40…)
@@ -38,10 +38,9 @@ Perform exploratory analysis:
   ## Turnover Rate
 % of employees who left
   ## Analyze by:
-Department
-Job Role
-Salary
-Age Group
+- Department
+- Age Group
+- Years Group
   ## Satisfaction Analysis
 Compare satisfaction vs attrition
 
