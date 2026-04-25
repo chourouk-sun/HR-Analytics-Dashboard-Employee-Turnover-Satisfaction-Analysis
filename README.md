@@ -75,7 +75,7 @@ Compare satisfaction vs attrition
 - Turnover Rate: 16.12%
 
 ##  Dashboard
-![Dashboard](Images/HR_Attrition.png)
+![Dashboard](Images/Attrition_Dashboard.png)
 
 ##  Recommendations
 - Improve work-life balance by reducing excessive overtime.
